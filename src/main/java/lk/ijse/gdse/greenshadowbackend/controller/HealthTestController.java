@@ -1,4 +1,4 @@
-package lk.ijse.gdse68.greenshadowbackend.controller;
+package lk.ijse.gdse.greenshadowbackend.controller;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;

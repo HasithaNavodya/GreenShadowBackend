@@ -1,4 +1,4 @@
-package lk.ijse.gdse68.greenshadowbackend.controller;
+package lk.ijse.gdse.greenshadowbackend.controller;
 
 import lk.ijse.gdse68.greenshadowbackend.dto.FieldLogDetailsDTO;
 import lk.ijse.gdse68.greenshadowbackend.dto.LogDTO;
